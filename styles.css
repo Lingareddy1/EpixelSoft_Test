@@ -974,3 +974,13 @@
    text-align: center;
    margin: 14px 17px;
 }
+
+.login-btn a, .footer-login-btn a{
+   text-decoration: none;
+   color: black;
+}
+
+.register-btn a, .footer-register-btn a{
+   text-decoration: none;
+   color: white;
+}

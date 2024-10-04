@@ -1,4 +1,3 @@
-
 function validateForm() {
     const fname = document.querySelector('.fname').value.trim();
     const lname = document.querySelector('.lname').value.trim();
